@@ -1,2 +1,4 @@
-# Esse é o primeiro commit do meu curso de Python 3
-# No momento deste commit estou atualmente na seção 3
+# This is the repository from a python course
+
+This repository is for educational and learning purposes only and is not to be taken as a serious project, it is just for learning.
+
